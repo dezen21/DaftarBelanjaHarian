@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daftar Belanja</string>
+    <string name="ket_register">Belum Punya Akun, Klik Tulisan ini</string>
+    <string name="ket_login">Sudah Punya Akun? Silahkan Sign In</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="nama">Nama Barang</string>
+    <string name="harga">Harga</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="total">Total Harga : </string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="delete">Hapus</string>
+
+</resources>
